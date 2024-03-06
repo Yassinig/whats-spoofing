@@ -149,7 +149,7 @@ func sendSpoofedTalkDemo(chatJID types.JID, spoofedJID types.JID, toGender strin
 	msgmap["br"]["generic"] = make(map[int]string)
 	msgmap["br"]["generic"][0] = "Oieeee..."
 	msgmap["br"]["generic"][1] = "Também adorei a noite de ontem..."
-	msgmap["br"]["generic"][2] = "❤️❤️❤️❤️❤️"
+	msgmap["br"]["generic"][2] = "❤️"
 	msgmap["br"]["generic"][3] = "Para você, estou sempre disponivel, meu amor..."
 	msgmap["br"]["generic"][4] = "Só me chamar que eu vou..."
 	msgmap["br"]["generic"][5] = "Minha delicia..."
@@ -179,7 +179,7 @@ func sendSpoofedTalkDemo(chatJID types.JID, spoofedJID types.JID, toGender strin
 	msgmap["ar"]["generic"] = make(map[int]string)
 	msgmap["ar"]["generic"][0] = "أهلا..."
 	msgmap["ar"]["generic"][1] = "مرحبا..."
-	msgmap["ar"]["generic"][2] = "❤️❤️❤️❤️❤️"
+	msgmap["ar"]["generic"][2] = "❤️"
 	msgmap["ar"]["generic"][3] = "كيف حالك؟..."
 	msgmap["ar"]["generic"][4] = "أين أنت؟..."
 	msgmap["ar"]["generic"][5] = "لمادا لا تجيب؟..."
